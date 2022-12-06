@@ -1,2 +1,2 @@
 # core
-Authentication &amp; database for boardgames.icu
+Authentication &amp; database frontend for boardgames.icu
