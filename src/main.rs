@@ -1,5 +1,7 @@
 mod database;
 mod routes;
+pub mod helpers;
+pub mod structs;
 #[macro_use] extern crate rocket;
 
 #[get("/ready")]

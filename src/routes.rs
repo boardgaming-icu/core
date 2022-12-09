@@ -1,6 +1,3 @@
-mod helpers;
-mod structs;
-
 #[post("/signup")]
 pub fn signup () {
 
